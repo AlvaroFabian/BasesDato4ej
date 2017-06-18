@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+
+    android:orientation="horizontal"
+    android:padding="5dip"
+    tools:layout_editor_absoluteX="0dp"
+    tools:layout_editor_absoluteY="81dp">
+
+    <!--  listrow  -->
+    <TextView
+        android:id="@+id/list_row_title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="8dp"
+        android:layout_toRightOf="@+id/thumbnail"
+        android:text="title"
+        android:textColor="#040404"
+        android:textSize="18dp"
+        android:typeface="sans"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <ImageView
+        android:id="@+id/list_row_bandera"
+        android:layout_width="50dp"
+        android:layout_height="0dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginStart="5dp"
+        android:src="@drawable/ic_nature_people_black_24dp"
+        app:layout_constraintBottom_toBottomOf="@+id/list_row_escudo"
+        app:layout_constraintLeft_toRightOf="@+id/list_row_poblacion"
+        app:layout_constraintTop_toTopOf="@+id/list_row_escudo"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <ImageView
+        android:id="@+id/list_row_escudo"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="91dp"
+        android:layout_marginRight="91dp"
+        android:src="@drawable/ic_nature_people_black_24dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintRight_creator="1"
+        tools:layout_constraintTop_creator="1" />
+
+    <TextView
+        android:id="@+id/list_row_poblacion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="3dp"
+        android:layout_marginStart="3dp"
+        android:text="TextView"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        tools:layout_constraintBottom_creator="1"
+        tools:layout_constraintLeft_creator="1" />
+
+    <!-- titulo de la categoria -->
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Ejercicios SQL</string>
+    <string name="title_activity_municipios_act1">MunicipiosAct1</string>
+
+    <string name="title_activity_act1_municipios">Act1Municipios</string>
+    <string name="title_activity_act1_muicipios">Boyacá</string>
+    <string name="DataMunicipios">
+        Aquitania@Es el noveno municipio más poblado del departamento. A 3030 metros sobre el nivel del mar, es uno de los 10 municipios más altos de Colombia.@16.592 habitantes@5.519632@-72.884149@Tota,Cuitiva@Agricultura y Ganaderia@null@null/
+Cuitiva@Cuenta con once veredas, el casco urbano y dos territorios insulares en el Lago de Tota@1.969 habitantes@5.580524@-72.965910@Iza, Aquitania@Agricultura, Ganadería y Turismo@null@null/
+Firavitoba@Está situado a unos 77 kilómetros de la ciudad de Tunja, la capital del departamento y a 10 km de Sogamoso, la capital de la provincia@6.177 habitantes@5.668902@-72.994004@Iza, Pesca, Sogamoso@Agricultura y Artesanía@null@null/
+Gámeza@ Está situado a unos 18 km de la ciudad de Sogamoso@4.895 habitantes@5.8026@-72.8063@Tasco, Corrales, Tópaga, Mongua y Socotá@Agricultura,Ganadería y Minería@null@null/
+Iza@Se caracteriza por la conservación de su contenido histórico, el cual se manifiesta en su ancestro prehispánico, arte rupestre, mitos, leyendas, tradiciones, la toponimia local, festejos y oficios como el tejido en algodón y lana@2.116 habitantes@5.6133@-72.9811@Pesca, Firavitoba, Cuitiva@Agricultura y Minería@null@null/
+Mongua@Está situado a unos 55 km de la ciudad de Tunja,capital del departamento@5.264 habitantes@5.754135@-72.799700@Gámeza, Socotá, Pisba, Paya, Labranzagrande, Aquitania, Sogamoso, Monguí y Tópaga@Agricultura, Ganadería y Minería@null@null/
+Monguí@Está situado a unos 97 km de la ciudad de Tunja,capital del departamento@5.002 habitantes@5.723685@-72.849378@Tópaga,Mongua,Gameza y Sogamoso@Industria y Ganadería@null@null/
+Nobsa@Nobsa es un municipio colombiano del departamento de Boyacá, situado en el centro-oriente de Colombia, en la región del Alto Chicamocha@14.946 habitantes@5.769722@-72.94@Sogamoso,Tibasosa@En el plano económico, se destaca como un importante centro artesanal de Boyacá, destacada principalmente por sus trabajos en lana. También se destaca la actividad industrial, por el sector cementero y minero que opera en este municipio.@null@null/
+Pesca@Pesca es un municipio colombiano ubicado en la provincia de Sugamuxi en el departamento de Boyacá. Está situado a unos 108 kilómetros de la ciudad de Tunja. Es uno de los pueblos elegidos más lindos de Colombia.@8.032 habitantes@5.558889@-73.050278@Firavitoba,Iza,Tuta,Tota,Zetaquira,Rondon,Siachoque@La economía del municipio se basa en la agricultura y la ganadería.@null@null/
+Sogamoso@Sogamoso es un municipio colombiano situado en el centro-oriente del departamento de Boyacá en la región del Alto Chicamocha. Es la capital de la Provincia de Sugamuxi@112.287 habitantes@5.715833@-72.933333@Nobsa,Topaga,Mongui,Aquitania,Cuitiva,Iza,Tibasosa,Firavitoba@La base económica de la ciudad es el comercio interregional entre los Llanos Orientales y el centro del país@null@null/
+Tibasosa@Tibasosa es un municipio colombiano del departamento de Boyacá, situado en el centro-oriente de Colombia, en la región del Alto Chicamocha.@12.463 habitantes@5.748056@-72.998889@Duitama,SantaRosa de viterbo,Nobsa,Sogamoso,Paipa,Firavitoba@El principal factor de ingreso económico de Tibasosa es la agricultura y la ganadería. Los productos lácteos también desempeñan un papel importante en la economía de la región.@null@null/
+Topaga@Tópaga es un municipio colombiano ubicado en la provincia de Sugamuxi en el departamento de Boyacá. Está situado a unos 98 km al noreste de la ciudad de Tunja.@3.694 habitantes@5.767778@-72.831667@Gamesa,Mongui,Nobsa,Sogamoso,Mongua@Las principales actividades económicas en la población son la minería, la agricultura y la ganadería@null@null/
+Tota@Tota es un municipio colombiano ubicado en la provincia de Sugamuxi en el departamento de Boyacá. Está situado a unos 40 km de la ciudad de Sogamoso y comparte la laguna de Tota con los municipios de Cuítiva y Aquitania.@5.386 habitates@5.560278@ -72.986111@Cuitiva,Aquitania,Pesca,Zetaquira@Los principales factores de ingreso económico de Tota son la agricultura, la ganadería, la piscicultura y el turismo.@null@null/
+    </string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_municipios_exercise1">Boyacá</string>
+    <string name="title_activity_act_municipios2">ActMunicipios2</string>
+    <string name="title_activity_act4_muicipios">Map</string>
+</resources>

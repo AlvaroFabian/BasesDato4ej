@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.asus.actividadbd.Act1MunicipiosB"
+    tools:showIn="@layout/activity_scrolling">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione Municipio;"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="10dp"
+            android:textSize="15sp" />
+
+        <Spinner
+            android:id="@+id/idSpinnerMuni"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginEnd="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="20dp"
+            style="@android:style/Widget.Holo.Light.Spinner"
+            android:background="@color/colorPrimary" />
+
+        <TextView
+            android:id="@+id/idTxtDataMuni"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:text="Datos"
+            android:textSize="14sp" />
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>
